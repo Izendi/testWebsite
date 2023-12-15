@@ -1,0 +1,4 @@
+baseURL = 'https://exam.org/'
+languageCode = 'en-us'
+title = 'Big Boi Test Site'
+theme = 'ananke'
